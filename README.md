@@ -2,8 +2,8 @@
   <img src="https://img.shields.io/pypi/v/PyLibCheck?style=flat-square" </a>
   <img src="https://img.shields.io/pypi/l/PyLibCheck?style=flat-square" </a>
   <img src="https://img.shields.io/pypi/dm/pylibcheck?style=flat-square" </a>
-  <img src="https://img.shields.io/github/stars/Rasmus257/pylibcheck?label=Stars&style=flat-square" </a>
-  <img src="https://img.shields.io/github/forks/Rasmus257/pylibcheck?label=Forks&style=flat-square" </a>
+  <img src="https://img.shields.io/github/stars/Rasmus257/PyLibCheck?label=Stars&style=flat-square" </a>
+  <img src="https://img.shields.io/github/forks/Rasmus257/PyLibCheck?label=Forks&style=flat-square" </a>
 </p>
 
 #### PyLibCheck was made by
