@@ -50,7 +50,6 @@ def checkSpecificVer(package: list or tuple or str) -> bool:
             else:
                 return True
 
-
 def installPackage(package: list or tuple or str):
     """Install a package if they don't already have it installed
 
